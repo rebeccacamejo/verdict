@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "verdict"
+version = "0.2.0"
+description = "Typed deterministic decision steps for agent toolkits — declare a question, get a calibrated answer with confidence routing"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+dependencies = ["pyyaml"]
+
+[project.optional-dependencies]
+jev = ["typesafe-sdk"]  # live Jev backend; everything else needs nothing
+test = ["pytest"]
+
+[project.scripts]
+verdict = "verdict.cli:main"
+
+[project.urls]
+Repository = "https://github.com/rebeccacamejo/verdict"
+
+[tool.setuptools.packages.find]
+include = ["verdict*"]

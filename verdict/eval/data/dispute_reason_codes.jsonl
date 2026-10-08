@@ -1,0 +1,24 @@
+{"id": "d001", "label": "unauthorized", "state": "I see a $212.40 charge from 'GLOBETIX LTD' on March 3rd. I have never heard of this merchant and did not make this purchase."}
+{"id": "d002", "label": "unauthorized", "state": "My card was stolen last week and someone used it for an $89 online electronics order. I did not authorize this."}
+{"id": "d003", "label": "unauthorized", "state": "There is a charge I don't recognize from a gas station in another state. I was home all day."}
+{"id": "d004", "label": "unauthorized", "state": "Someone opened a streaming subscription with my card number. That wasn't me."}
+{"id": "d005", "label": "not_received", "state": "I ordered a jacket on January 12th, tracking shows it never left the warehouse, and the merchant stopped replying."}
+{"id": "d006", "label": "not_received", "state": "Paid for concert tickets that were never delivered by email. The event already happened."}
+{"id": "d007", "label": "not_received", "state": "The furniture I bought was never shipped. It's been six weeks and the store's phone is disconnected."}
+{"id": "d008", "label": "not_received", "state": "I never received the package and the tracking number the seller gave me doesn't exist."}
+{"id": "d009", "label": "defective", "state": "The laptop arrived with a cracked screen and won't power on. The seller refuses a refund."}
+{"id": "d010", "label": "defective", "state": "I bought headphones described as new, but they arrived used with one side not working."}
+{"id": "d011", "label": "defective", "state": "The chair I received is missing parts and wobbles dangerously. It's not as described."}
+{"id": "d012", "label": "defective", "state": "Ordered a phone advertised as unlocked; it's carrier-locked and won't accept my SIM."}
+{"id": "d013", "label": "duplicate", "state": "My statement shows two identical $45.99 charges from the same restaurant on the same night."}
+{"id": "d014", "label": "duplicate", "state": "I was charged twice for one hotel stay. The hotel admits the error but hasn't reversed it."}
+{"id": "d015", "label": "duplicate", "state": "The airline billed me two times for a single ticket purchase."}
+{"id": "d016", "label": "duplicate", "state": "I see a duplicate charge for my gym membership this month."}
+{"id": "d017", "label": "subscription", "state": "I cancelled my meal-kit subscription in November but they kept charging me $59 a month."}
+{"id": "d018", "label": "subscription", "state": "I ended the free trial before it converted, yet I've been billed three months of premium."}
+{"id": "d019", "label": "subscription", "state": "Cancelled the magazine subscription last year; a renewal charge appeared anyway."}
+{"id": "d020", "label": "subscription", "state": "I asked them to stop the recurring donation in writing and they charged me again."}
+{"id": "d021", "label": "atm", "state": "The ATM debited $200 from my account but no cash came out. The bank's ATM log should show it."}
+{"id": "d022", "label": "atm", "state": "I requested $100 and the machine only dispensed $40, but my account was charged the full $100."}
+{"id": "d023", "label": "atm", "state": "The ATM froze mid-transaction and kept my card; the withdrawal was still posted."}
+{"id": "d024", "label": "atm", "state": "The cash machine gave me someone else's receipt and no money, but I'm out $300."}
